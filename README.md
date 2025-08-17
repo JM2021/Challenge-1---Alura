@@ -14,12 +14,3 @@ El proyecto combina el uso de **Python, Pandas, Matplotlib y Seaborn** para real
 
 ---
 
-## ⚙️ Instalación y dependencias
-Clona el repositorio y asegúrate de tener instaladas las siguientes librerías:
-
-```bash
-git clone https://github.com/tu_usuario/nombre_proyecto.git
-cd nombre_proyecto
-
-pip install -r requirements.txt
-
